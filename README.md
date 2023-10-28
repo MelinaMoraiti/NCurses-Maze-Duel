@@ -4,7 +4,7 @@ This repository contains a two-player maze game created in C++ using the NCurses
 
 ## Game Preview
 
-![Gameplay](screenshots/Game.jpg)
+![Gameplay](screenshots/game.jpg)
 
 ## Prerequisites
 
