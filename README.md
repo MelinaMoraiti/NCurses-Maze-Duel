@@ -36,3 +36,7 @@ The maze map is loaded from a text file provided as a command-line argument when
 
 - '*' represents walls
 - '.' represents open spaces/passage
+You can use the provided map files (e.g., Map1.txt and Map2.txt), or create your own custom map text files by following the same format.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
