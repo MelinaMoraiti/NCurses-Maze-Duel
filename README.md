@@ -29,7 +29,7 @@ brew install ncurses
    ```
 2. **Run the Game:**
    ```shell
-   ./maze_game
+   ./maze_game <map_filepath>
    ```
 ## Maze Map
 The maze map is loaded from a text file provided as a command-line argument when starting the game. The map file should use the following characters:
