@@ -34,8 +34,9 @@ brew install ncurses
 ## Maze Map
 The maze map is loaded from a text file provided as a command-line argument when starting the game. The map file should use the following characters:
 
-- '*' represents walls
-- '.' represents open spaces/passage
+- '*' represents walls.
+- '.' represents open spaces/passages.
+  
 You can use the provided map files (e.g., Map1.txt and Map2.txt), or create your own custom map text files by following the same format.
 
 ## License
